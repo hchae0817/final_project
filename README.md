@@ -57,11 +57,3 @@ jupyter notebook
 ```
 
 This will provide jupyter enviornment, executing the code will be available after finding the correct directory where all the _.csv_ and _.ipynb_ files are.
-
-
-## Authors
-
-Contributors names and contact info
-
-Hana Chae, 1910490
-Computer Science student at Kings College London
