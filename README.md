@@ -11,7 +11,7 @@ of the performance of the model will be carried forward.
 
 ## Getting Started
 
-### Data Set
+### Source of Data Set
 
 * TFL data set link: https://cycling.data.tfl.gov.uk/
 
@@ -21,6 +21,13 @@ It is recommanded to download _2016TripDataZip.zip_ file first and download rest
 * UCL data set link: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
 
 * Docking station data set link: https://www.whatdotheyknow.com/request/request_for_location_of_santande#incoming-1572474
+
+### Merged Data Set
+
+* April_1_months.csv
+* April_to_June_3_months.csv
+* April_to_Oct_6_months.csv
+
 
 Having these following _.csv_ files must be located in the same directory as the python script, in this case _.ipynb_ file. For example, if one of the jupyter notebook file was in the Desktop, all of the _.csv_ files need to be saved in Desktop.
 
