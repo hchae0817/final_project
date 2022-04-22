@@ -20,54 +20,48 @@ It is recommanded to download _2016TripDataZip.zip_ file first and download rest
 
 * UCL data set link: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
 
-* Docking station data set link:
+* Docking station data set link: https://www.whatdotheyknow.com/request/request_for_location_of_santande#incoming-1572474
 
-Having these following _.csv_ files must be located in the same directory as the python script, in this case _.ipynb_ file. For example, if one of the jupyter notebook file was in the Desktop, all of the .csv files need to be saved in Desktop.
+Having these following _.csv_ files must be located in the same directory as the python script, in this case _.ipynb_ file. For example, if one of the jupyter notebook file was in the Desktop, all of the _.csv_ files need to be saved in Desktop.
 
 ### Package
+* Jupyter notbook is used in this project, these are required to be installed with following code below. 
+* If need help, further support can be made in https://jupyter.org/install
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+pip install notebook
+```
+
+* Tensorflow and kera package is used in this project, these are required to be installed with following code below.
+* If need help, further support can be made in https://www.tensorflow.org/hub/installation.
+
+TensorFlow and Keras require Python 3.6+ (Python 3.8 requires TensorFlow 2.2+), and the latest version of pip. 
+Run following command below to check the current version for python:
+
+```
+python3 --version
+```
+```
+pip install --upgrade pip
+```
+To install TensorFlow for CPU and GPU processors, run the following command:
+```
+pip install tensorflow
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+Run following command to activate jupyter notebook:
 ```
-code blocks for commands
+jupyter notebook
 ```
 
-## Help
+This will provide jupyter enviornment, executing the code will be available after finding the correct directory where all the _.csv_ and _.ipynb_ files are.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Hana Chae, 1910490
+Computer Science student at Kings College London
