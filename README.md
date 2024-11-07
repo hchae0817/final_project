@@ -1,6 +1,10 @@
 # Predictions on bike sharing demand
+<p align="center"> 
+  <img src="06-circle-only.png" alt="Animal.png" >
+</p>
 
-## Description
+## :bulb: Purpose
+
 
 The motivation is to make a predictions where the current existing app such as CityMapper or Google map currently do not support. Providing predictive figure, which we are aiming in the project, would result reduce of making such error where the current 
 application are limited. 
@@ -8,8 +12,20 @@ application are limited.
 Objective for this project is to build multiple machine learning models to predict and analysis the bike sharing demand in London. Data modification, machine learning model construction, visualisation of data are main objectives in this project, and further analysis on each
 of the performance of the model will be carried forward.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Getting Started
+
+## :woman_technologist:	Technologies Used
+
+- **Keras** Used for neural network API, set up foundation for building machine learning models
+- **Tensorflow** Deep learning framework for developing machine learning models at scale
+- **Pandas** A library for data analysis and manipulation, essential for preparing and handling data efficiently.
+- **Python:** The primary programming language used to implement the project.
+- **Jupyter Notbook** An interactive environment used for data visualization, exploration, and rapid prototyping.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## ✔️ Getting Started
 
 ### Source of Data Set
 
@@ -64,3 +80,13 @@ jupyter notebook
 ```
 
 This will provide jupyter enviornment, executing the code will be available after finding the correct directory where all the _.csv_ and _.ipynb_ files are.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+Hana Chae!
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hchae0817)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-chae-06a9001b8/)
